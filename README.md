@@ -50,6 +50,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/pedroaltobelli23/pedroaltobelli23/blob/output/github-contribution-grid-snake.svg)
-
 ###
