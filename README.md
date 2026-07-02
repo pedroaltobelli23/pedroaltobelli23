@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Altobelli and I'm a Computer engineering student at Insper, from São Paulo,Brazil</h2>
+<h2 align="left">Hi 👋! My name is Pedro Altobelli and I'm a computer engineer who graduated from Insper, in São Paulo, Brazil</h2>
 
 ###
 
